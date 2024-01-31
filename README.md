@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" alt="Bootstrap">&nbsp;
   <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117" alt="MySQL">&nbsp;
   <img src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma">
+  <img src="https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117" alt="wordpress">
 </p>
 
 
