@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=185&section=header&text=EdilanGomes"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Edilan+Batista+Gomes+De+Lima;Tenho+17+anos+de+idade!;No+momento+estudo+HTML5+CSS3+JAVASCRIPT+BOOTSTRAP!;E+futuramente+React!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Edilan+Batista+Gomes+De+Lima;Tenho+18+anos+de+idade!;No+momento+estudo+HTML5+CSS3+JAVASCRIPT+BOOTSTRAP!;E+futuramente+React!+:%29)](https://git.io/typing-svg)
 
 <br> <br>
 
 <div align="center">
-  <a href="https://github.com/KaiqueFLH">
+  <a href="">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EdilanGomes&show_icons=true&theme=transparent"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilanGomes&layout=donut&theme=transparent"/>
 </div>
