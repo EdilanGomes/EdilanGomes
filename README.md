@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=185&section=header&text=EdilanGomes"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Edilan+Batista;Tenho+19+anos+de+idade!;Sou+analista+de+projetos+digitais!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Edilan+Batista!;Tenho+19+anos+de+idade!;Sou+analista+de+projetos+digitais!+:%29)](https://git.io/typing-svg)
 
 <br> <br>
 
